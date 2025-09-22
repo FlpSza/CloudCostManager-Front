@@ -111,3 +111,4 @@ const RecentAlerts: React.FC<RecentAlertsProps> = ({ alerts }) => {
 };
 
 export default RecentAlerts;
+

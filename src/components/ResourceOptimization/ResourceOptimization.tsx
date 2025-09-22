@@ -98,3 +98,4 @@ const ResourceOptimization: React.FC<ResourceOptimizationProps> = ({ recommendat
 };
 
 export default ResourceOptimization;
+
